@@ -13,7 +13,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 
 public class launchpage implements ActionListener{
-	JFrame frame = new JFrame("Abd certified Password generator");
+	JFrame frame = new JFrame("von abd entwickelt");
 	JButton button = new JButton("Generiere Passwort");
 	Random ran = new Random();
 	JLabel lable = new JLabel("auf ''Generiere Passwort'' klicken...");
